@@ -1,0 +1,14 @@
+﻿---
+ID: "e9d906b7-5ece-4897-921d-b5e0a8e76774"
+Parent: "3503d666-443c-4de0-a1be-ea5e07e7d9de"
+Template: "ac7394d5-2aa7-4fdb-a7d8-b1b87f9fa661"
+Path: /sitecore/content/Group/Global/Links/Social Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T022811Z

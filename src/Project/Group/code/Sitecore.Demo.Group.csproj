@@ -110,15 +110,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="App_Config\Include\Project\Sitecore.Demo.Group.Website.config" />
-    <Content Include="App_Config\Include\Project\Sitecore.Demo.Group.Website.Serialization.config" />
-    <Content Include="App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config" />
+    <Content Include="App_Config\Include\Project\Sitecore.Demo.Group.config" />
+    <Content Include="App_Config\Include\Project\Sitecore.Demo.Group.Serialization.config" />
+    <Content Include="App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="App_Config\Security\domains.config.transform" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Legal\Layouts\Default.cshtml" />
     <Content Include="Views\web.config" />
+    <Content Include="Views\Group\Layouts\Default.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

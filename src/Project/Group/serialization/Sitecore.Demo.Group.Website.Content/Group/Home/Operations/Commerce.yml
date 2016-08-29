@@ -1,0 +1,32 @@
+﻿---
+ID: "5284fd98-cffe-4057-a2de-8d1bdf5af490"
+Parent: "9efd1561-66dd-4b22-90d0-bd30d08fc2d9"
+Template: "d8e22e52-13a5-4077-acca-034e622e046e"
+Path: /sitecore/content/Group/Home/Operations/Commerce
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Commerce
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T015014Z
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: "<image mediaid=\"{73885265-A606-4B6F-BA3E-9AA98BD0D2BF}\" />"
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: |
+        <p>With over 10 million items sold each month worldwide, Habitat is a leading e-commerce retailer.
+        </p>
+        <p>Habitat prides itself on meeting the leisure, learning and gift needs of all customers and we do more than just sell stuff. Habitat is in the forefront of evolving to keep pace with today’s consumer and prides itself on setting the standard in customer experienced and leading the way with the same enthusiasm and progressive retail approach that has ensured its business success to this day.</p>
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Retail and B2B Commerce
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Commerce

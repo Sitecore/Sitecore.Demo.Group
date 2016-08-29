@@ -1,0 +1,14 @@
+﻿---
+ID: "3503d666-443c-4de0-a1be-ea5e07e7d9de"
+Parent: "05fd15ba-ab2d-4eb4-92e0-c616614439c9"
+Template: "ac7394d5-2aa7-4fdb-a7d8-b1b87f9fa661"
+Path: /sitecore/content/Group/Global/Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150910T050716Z

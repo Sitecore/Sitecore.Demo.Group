@@ -1,0 +1,29 @@
+﻿---
+ID: "02b3c20e-6dd3-4980-933f-61368011cbf0"
+Parent: "9efd1561-66dd-4b22-90d0-bd30d08fc2d9"
+Template: "d8e22e52-13a5-4077-acca-034e622e046e"
+Path: /sitecore/content/Group/Home/Operations/Public Sector
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Public Sector
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T014959Z
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: "<image mediaid=\"{B41A1312-5ECE-4771-8309-F5512251854C}\" />"
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: "The Habitat Public Sector divisions aids and supports local governments worldwide - truly empowering the public servants to the benefit of the people."
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Public Sector
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Public Sector

@@ -1,0 +1,35 @@
+﻿---
+ID: "043cb0d7-600a-49ec-a474-9e080e001cea"
+Parent: "9f86aca9-f4a0-459e-9bc2-27942b6195cf"
+Template: "a83ddc62-13e0-496a-a834-2b9e16443ed4"
+Path: /sitecore/content/Group/Home/Worldwide/Tech/Tokyo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        METLIFE Building 3rd floor 2-11-16 Minamiaoyama Minato-ku 
+        Tokyo 107-0062 
+        Japan 
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Tokyo
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T015617Z
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Tokyo
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Tokyo
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Habitat Technology Japan
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: 35.6653189,139.71499949999998

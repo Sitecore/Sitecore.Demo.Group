@@ -1,0 +1,23 @@
+﻿---
+ID: "2af63dd6-6006-4aef-8c14-33bb02768be7"
+Parent: "486eaf67-7d89-4fee-8942-06aa1a2c637a"
+Template: "c7d9d293-4ef8-4380-8e10-c4632e729f39"
+Path: /sitecore/content/Group/Home/Worldwide/_Local/Europe
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f6b5546-e0ab-4487-81de-640c1aa1b65b"
+      Hint: TeaserImage
+      Value: "<image mediaid=\"{0321F041-78AF-49F2-92EB-49B639C9DDE6}\" />"
+    - ID: "13d97a52-7c4e-407c-960d-fadde8a3c1b1"
+      Hint: TeaserSummary
+      Value: The Habitat Group is headquartered in Copenhagen, Denmark but has operations throughout Europe with our Legal Services operating out of London.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T045607Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Europe

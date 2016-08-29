@@ -1,0 +1,21 @@
+﻿---
+ID: "a3315c53-67f6-4717-9c27-bcda89897cb8"
+Parent: "0d3418c0-c90e-46ce-a963-c7d79348c5d0"
+Template: "390333c8-751b-4332-84a3-6360b969a19f"
+Path: /sitecore/content/Group/Global/Links/Footer First/Habitat Tech
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Habitat Technology
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160828T232702Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "450088a9-be18-4815-aa9f-ec77e85c6bcc"
+Parent: "9f86aca9-f4a0-459e-9bc2-27942b6195cf"
+Template: "a83ddc62-13e0-496a-a834-2b9e16443ed4"
+Path: /sitecore/content/Group/Home/Worldwide/Tech/Sydney
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        Level 4, 50 Pitt St 
+        SYDNEY NSW 2000 
+        Australia 
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Sydney
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T015639Z
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Sydney
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Sydney
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Habitat Technology ANZ
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "-33.8913771,151.20385799999997"

@@ -28,7 +28,7 @@
 </head>
 <body class="@(Sitecore.Context.PageMode.IsExperienceEditor ? "header-static" : "") @(Sitecore.Context.PageMode.IsNormal ? "" : (Sitecore.Context.PageMode.IsExperienceEditor ? "pagemode-edit" : "pagemode-preview"))">
   <div id="main-container">
-    <header>
+    <header class="@(Sitecore.Context.PageMode.IsExperienceEditor ? "header-static" : "header-fixed")">
       @Html.Sitecore().Placeholder("header-top")
 
       @Html.Sitecore().Placeholder("navbar")
