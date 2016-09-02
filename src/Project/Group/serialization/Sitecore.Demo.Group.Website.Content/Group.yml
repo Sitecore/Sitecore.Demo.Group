@@ -19,6 +19,9 @@ Languages:
       Hint: ShowInMenu
       Type: Checkbox
       Value: 1
+    - ID: "235ae392-97ac-4822-be38-837da3e7724e"
+      Hint: SiteBrowserTitle
+      Value: "- Habitat Group"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160821T122930Z
@@ -34,7 +37,7 @@ Languages:
         USA
     - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
       Hint: Logo
-      Value: "<image mediaid=\"{D34CEF8E-F2C0-4076-A163-6123EBAE48A0}\" />"
+      Value: "<image mediaid=\"{EBA28CA7-E4FE-44A7-895A-DEBA2ABA409E}\" />"
     - ID: "efd4980a-030c-497c-8880-40b6030ac28b"
       Hint: OrganisationName
       Value: Habitat Group

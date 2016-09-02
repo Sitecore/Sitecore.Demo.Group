@@ -23,7 +23,7 @@ SharedFields:
   Hint: __Renderings
   Type: layout
   Value: |
-    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <r>
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
         l="{17857EED-0386-4911-89EC-C29D9C018237}">
@@ -44,15 +44,11 @@ SharedFields:
           ph="navbar-left"
           uid="{7BD25BD6-C6C4-4FBE-9828-D29A39A2FEC9}" />
         <r
-          ds=""
           id="{53B085DB-6824-4941-9F28-9011CB151832}"
-          par=""
           ph="navbar-right"
           uid="{FBDB4313-35B5-4C26-A586-17F48FD2DC41}" />
         <r
-          ds=""
           id="{8832BA30-99C3-4D20-9B1C-237D910A153F}"
-          par=""
           ph="navbar-right"
           uid="{75551DEC-A457-43A3-B76F-91742B5DDE93}" />
         <r
@@ -64,7 +60,7 @@ SharedFields:
           ph="navbar-activity"
           uid="{3555E24E-FBE9-4D81-AAC7-50408AA45EF0}" />
         <r
-          ds="{9AA07D42-E9B5-4B52-A0E2-4FDF08C203EE}"
+          ds="{E3F5B510-54B3-4FEE-B7A8-0FBA14121AC1}"
           id="{8C3A2CFC-18FB-4BF5-8584-50EA88978ED6}"
           ph="navbar-activity"
           uid="{9C8A45F2-7008-42C1-8B8A-80A88825C1D8}" />
@@ -90,19 +86,18 @@ SharedFields:
         <r
           ds="{0D3418C0-C90E-46CE-A963-C7D79348C5D0}"
           id="{F366FBA9-EF26-4007-988A-63CB64649C46}"
-          par=""
           ph="/footer/section/col-narrow-1"
           uid="{0E0C6DCA-1A29-4975-84D7-E99498A64A72}" />
         <r
           ds="{73D641B9-190A-404E-A57C-3C60DA805E8B}"
           id="{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}"
-          par="Background=%7BBD2F308A-E00A-4372-ADBB-BD64712A54FA%7D"
+          par="Background=%7bBD2F308A-E00A-4372-ADBB-BD64712A54FA%7d"
           ph="/footer/section/col-narrow-2"
           uid="{84124EE2-E678-4144-8316-0D6874866604}" />
         <r
           ds="{7769A970-9686-4A9F-B4D1-1190916CBCE4}"
           id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}"
-          par="Background=%7BBD2F308A-E00A-4372-ADBB-BD64712A54FA%7D"
+          par="Background=%7bBD2F308A-E00A-4372-ADBB-BD64712A54FA%7d"
           ph="/footer/section/col-narrow-3"
           uid="{E200C0B1-2874-4DC9-924A-457DB47EFF0B}" />
         <r

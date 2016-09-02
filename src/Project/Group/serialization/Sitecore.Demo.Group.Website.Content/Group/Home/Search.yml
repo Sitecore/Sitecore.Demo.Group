@@ -1,0 +1,34 @@
+﻿---
+ID: "e3f5b510-54b3-4fee-b7a8-0fba14121ac1"
+Parent: "73d641b9-190a-404e-a57c-3c60da805e8b"
+Template: "80aa88d3-b032-4c85-afcb-46145f8ab706"
+Path: /sitecore/content/Group/Home/Search
+DB: master
+SharedFields:
+- ID: "5585a30d-b115-4753-93ce-422c3455deb2"
+  Hint: ShowInNavigation
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee2f208-1fee-42fc-8051-6696d49a92bf"
+      Hint: OpenGraphTitle
+      Value: Search
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Search
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T111759Z
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Search
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Search
