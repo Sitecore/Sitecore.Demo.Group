@@ -1,0 +1,14 @@
+﻿---
+ID: "9f86aca9-f4a0-459e-9bc2-27942b6195cf"
+Parent: "b5ebe870-45e5-4874-a40c-4f99caac806c"
+Template: "1cf6aeea-7e6c-45d3-9976-c43cde26b0b3"
+Path: /sitecore/content/Group/Home/Worldwide/Tech
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T023353Z

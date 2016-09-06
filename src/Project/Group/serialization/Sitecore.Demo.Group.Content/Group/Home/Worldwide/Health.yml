@@ -1,0 +1,14 @@
+﻿---
+ID: "c5355926-c950-4ee9-929d-9be90f56d2fe"
+Parent: "b5ebe870-45e5-4874-a40c-4f99caac806c"
+Template: "1cf6aeea-7e6c-45d3-9976-c43cde26b0b3"
+Path: /sitecore/content/Group/Home/Worldwide/Health
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T023342Z

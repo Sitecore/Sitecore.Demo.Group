@@ -1,0 +1,20 @@
+﻿---
+ID: "7a046dad-b67a-4f77-8795-59493d4425d0"
+Parent: "e9d906b7-5ece-4897-921d-b5e0a8e76774"
+Template: "390333c8-751b-4332-84a3-6360b969a19f"
+Path: /sitecore/content/Group/Global/Links/Social Links/LinkedIn
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: LinkedIn
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T022843Z
+    - ID: "fe71c30e-f07d-4052-8594-c3028cd76e1f"
+      Hint: Link
+      Value: "<link text=\"LinkedIn\" linktype=\"external\" url=\"http://www.linkedin.com\" anchor=\"\" target=\"_blank\" />"

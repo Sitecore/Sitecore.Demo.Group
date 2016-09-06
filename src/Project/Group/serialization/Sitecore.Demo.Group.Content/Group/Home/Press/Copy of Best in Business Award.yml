@@ -1,0 +1,36 @@
+﻿---
+ID: "6409e652-2e98-4432-8250-9aacda97c56b"
+Parent: "6b9b5722-b01b-474c-9795-a5e53a06a25e"
+Template: "a9b662a2-e2df-49aa-85fa-40f88dddf808"
+Path: /sitecore/content/Group/Home/Press/Copy of Best in Business Award
+DB: master
+SharedFields:
+- ID: "c464d2d7-3382-428a-bcdf-0963c60ba0e3"
+  Hint: NewsDate
+  Value: 20160906T140000Z
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160906T231420Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "801612c7-5e98-4e3c-80d2-a34d0eebcbda"
+      Hint: NewsBody
+      Value: |
+        <p>Habitat Group was listed on the Danish Stock Exchange in 2001. In this time thr group has increased sales by 7,200% and built a global business that is now the fourth largest group company in the Nordics and, by sales, the sixth-largest world-wide. Habitat sells its products and services in more than 80 countries.</p>
+        <p>Hans Tonkins, Founder and Executive Chair of Hello Great Group and Chair of the Best in Business judging panel, says:</p>
+        <p>&ldquo;Our unanimous decision was reached after long and tough deliberations. Habitat Group was our choice, not only due to the impressive growth, but also because the business has nurtured and shown sustained global success. The mettle was tested when Habitat Group faced a product recall that would have overcome less resilient and well-managed businesses. All of our finalists were worthy winners and demonstrated so many qualities that we were looking for, including an ability to respond to disruption. However, it was Habitat Group which impressed us most across our diverse judging criteria.&rdquo;</p>
+    - ID: "9d08271a-1672-44dd-b7ef-0a6ec34fcba7"
+      Hint: NewsSummary
+      Value: <p>Habitat Group was Best in Business Award by Harvest and Monk at the annual EYCCH conference in Las Vegas.</p>
+    - ID: "bd9ecd4a-c0b0-4233-a3cd-d995519ac87b"
+      Hint: NewsTitle
+      Value: Habitat Group awarded for Excellence
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Best in Business Award

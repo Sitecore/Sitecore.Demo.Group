@@ -1,0 +1,24 @@
+﻿---
+ID: "29bb4d81-b7a9-40e8-bbe7-2f978c1aaa96"
+Parent: "0d3418c0-c90e-46ce-a963-c7d79348c5d0"
+Template: "390333c8-751b-4332-84a3-6360b969a19f"
+Path: /sitecore/content/Group/Global/Links/Footer First/Habitat Legal
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Habitat Legal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160828T232638Z
+    - ID: "fe71c30e-f07d-4052-8594-c3028cd76e1f"
+      Hint: Link
+      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{6EB0F80B-A1D5-40E0-A472-9308B24228B5}\" />"

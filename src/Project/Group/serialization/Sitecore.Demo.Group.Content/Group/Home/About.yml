@@ -1,0 +1,100 @@
+﻿---
+ID: "2c3bb531-de82-40b4-a185-2aaf15a648a6"
+Parent: "73d641b9-190a-404e-a57c-3c60da805e8b"
+Template: "d8e22e52-13a5-4077-acca-034e622e046e"
+Path: /sitecore/content/Group/Home/About
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E8B3E8F8-3A9A-4B25-97FD-792383DF9437}"
+              p:before="*"
+              s:ds="{7BFFBA92-E935-476A-B586-16CF2F59D3A4}"
+              s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}"
+              s:ph="/page-layout/section_69182f05-1b00-4156-893b-a3e56e15f473/col-narrow-3_ab9971e4-b388-4512-bd15-a8fb9812d438" />
+            <r
+              uid="{97EB9E5B-2DD9-41F2-A6C6-81C2CDDEFDD1}"
+              p:after="r[@uid='{E8B3E8F8-3A9A-4B25-97FD-792383DF9437}']"
+              s:ds="{5DB45333-DAD3-4E3F-B104-25889574A720}"
+              s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}"
+              s:ph="/page-layout/section_69182f05-1b00-4156-893b-a3e56e15f473/col-narrow-2_ab9971e4-b388-4512-bd15-a8fb9812d438" />
+            <r
+              uid="{61029D2D-6E06-46EA-8A40-E39E4531709D}"
+              p:after="r[@uid='{97EB9E5B-2DD9-41F2-A6C6-81C2CDDEFDD1}']"
+              s:ds="{5D02C8CF-92EA-4BFF-913F-D4A19AFFC037}"
+              s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}"
+              s:ph="/page-layout/section_69182f05-1b00-4156-893b-a3e56e15f473/col-narrow-1_ab9971e4-b388-4512-bd15-a8fb9812d438" />
+            <r
+              uid="{E6760A11-A5A5-43D9-85AE-528B8C48C34D}"
+              p:after="r[@uid='{61029D2D-6E06-46EA-8A40-E39E4531709D}']"
+              s:ds="{7034E0DA-9AE3-43FE-8A7C-8C6219FF23B3}"
+              s:id="{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}"
+              s:ph="/page-layout/section_69182f05-1b00-4156-893b-a3e56e15f473/col-huge_bd19c9a7-b6dc-44ba-a56f-db93bd137389" />
+            <r
+              uid="{BD19C9A7-B6DC-44BA-A56F-DB93BD137389}"
+              p:after="r[@uid='{E6760A11-A5A5-43D9-85AE-528B8C48C34D}']"
+              s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}"
+              s:ph="/page-layout/section_69182f05-1b00-4156-893b-a3e56e15f473" />
+            <r
+              uid="{AB9971E4-B388-4512-BD15-A8FB9812D438}"
+              p:after="r[@uid='{BD19C9A7-B6DC-44BA-A56F-DB93BD137389}']"
+              s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}"
+              s:ph="/page-layout/section_69182f05-1b00-4156-893b-a3e56e15f473" />
+            <r
+              uid="{806CAFA6-6C83-4FC5-8489-26A51FB7E7D5}"
+              p:after="r[@uid='{AB9971E4-B388-4512-BD15-A8FB9812D438}']"
+              s:ds="{9EFD1561-66DD-4B22-90D0-BD30D08FC2D9}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section/col-narrow-1" />
+            <r
+              uid="{239E3040-1F27-4934-B470-9461D0B00E5B}"
+              p:after="r[@uid='{806CAFA6-6C83-4FC5-8489-26A51FB7E7D5}']"
+              s:ds="{B5EBE870-45E5-4874-A40C-4F99CAAC806C}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section/col-narrow-1" />
+            <r
+              uid="{69182F05-1B00-4156-893B-A3E56E15F473}"
+              p:after="r[@uid='{A3CA17FF-693C-46F1-87AA-B8C1833F1890}']"
+              s:ds=""
+              s:id="{D201A487-5099-48A1-8189-55944F70C6CB}"
+              s:par="Background=%7BEFA6AD59-AE21-4524-90F8-A92440B869AF%7D&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160822T080703Z
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: "<p><span style=\"color: #212b34; background-color: #ffffff;\">Our uncompromising commitment to global thinking, innovation, and collaboration in the way we build, sell, deliver, and optimize our products and services. This clear, strategic focus is a mantra for Habitat management, employees, and partners alike, and it permeates our entire ecosystem</span></p>"
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: About the Habitat Group
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: About
+    - ID: "d74f396d-5c5e-4916-bd0a-bfd58b6b1967"
+      Hint: Body
+      Value: |
+        <p>Through the Habitat companies, consumers and businesses are given the best in customer experience and is empowered to make the right decisions, in the right place and at the right moment. Consumers demand businesses that is more personal—that takes into account the context of their previous brand interactions. For businesses, personal experienceses delivers measurable, relevant experiences that improve performance, build loyalty, and drive real results across every engagement channel.<br>
+        <br>
+        Built from the ground up since 2001, the Habitat Corporation has the experience and knowledge necessary to enabling our customers to get the right experience, in real time, across all channels. Business in context requires a commercial platform that delivers three components: robust management, intelligence, and automation. Habitat is a market leader in all three.</p>
+        <p>Habitat is continually recognized as an industry leader by prominent organizations, and was awarded the 2016 Best in Business award by Harvest and Monk.</p>

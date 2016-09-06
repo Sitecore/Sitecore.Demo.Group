@@ -1,0 +1,29 @@
+﻿---
+ID: "ff943b45-bf76-460f-a616-9e94c2920404"
+Parent: "9efd1561-66dd-4b22-90d0-bd30d08fc2d9"
+Template: "d8e22e52-13a5-4077-acca-034e622e046e"
+Path: /sitecore/content/Group/Home/Operations/Legal
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Legal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T014918Z
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: "<image mediaid=\"{1C9D05D5-5503-499A-9782-444109A3AF42}\" />"
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: For decades, our lawyers have been key figures and played pivotal roles in legal services worldwide—advancing both public and private interests, Habitat Lagal clients are frequently at the center of the most strategic and vital activities and investments.
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Legal Services
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Legal

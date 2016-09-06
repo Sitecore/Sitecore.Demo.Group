@@ -1,0 +1,35 @@
+﻿---
+ID: "03b18a51-ce6a-47b9-bb9a-a4c0ae1fea2c"
+Parent: "c5355926-c950-4ee9-929d-9be90f56d2fe"
+Template: "a83ddc62-13e0-496a-a834-2b9e16443ed4"
+Path: /sitecore/content/Group/Home/Worldwide/Health/Amsterdam
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        Barbara Strozzilaan 101
+        1083 HN Amsterdam
+        Netherlands
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Amsterdam
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T015303Z
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Amsterdam
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Amsterdam
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Habitat Health Europe
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: 52.3364249,4.884853300000032

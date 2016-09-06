@@ -1,0 +1,120 @@
+﻿---
+ID: "73d641b9-190a-404e-a57c-3c60da805e8b"
+Parent: "1464b4d8-09d4-40ea-a80e-317803c9e18a"
+Template: "567c4bd6-6791-4490-a1a3-4d1fe0eeee68"
+Path: /sitecore/content/Group/Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{192B6009-9116-48B3-9C93-CE54ED806FE7}"
+              p:before="*"
+              s:ds="{10F84CFC-B956-492B-9089-3BC9F251D38C}"
+              s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}"
+              s:ph="/page-layout/section_c4a08d15-2fd5-4dc7-b288-084d56cde1ca/col-wide-1_ec49e9dc-b68a-435b-b616-85d9cd8744e2" />
+            <r
+              uid="{3C8CC6B3-CD88-41AC-98CF-A84E8C28BE51}"
+              p:after="r[@uid='{192B6009-9116-48B3-9C93-CE54ED806FE7}']"
+              s:ds="{5852D225-DB61-4472-8760-95414D998AA4}"
+              s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}"
+              s:par="Background&amp;Fixed height"
+              s:ph="/page-layout/section_c4a08d15-2fd5-4dc7-b288-084d56cde1ca/col-narrow-1_ec49e9dc-b68a-435b-b616-85d9cd8744e2" />
+            <r
+              uid="{EC49E9DC-B68A-435B-B616-85D9CD8744E2}"
+              p:after="r[@uid='{3C8CC6B3-CD88-41AC-98CF-A84E8C28BE51}']"
+              s:id="{E6D8107A-D811-4826-82BB-1A6279830C5A}"
+              s:ph="/page-layout/section_c4a08d15-2fd5-4dc7-b288-084d56cde1ca" />
+            <r
+              uid="{67F27556-6986-462E-AAC8-E6F8F411B06A}"
+              p:after="r[@uid='{EC49E9DC-B68A-435B-B616-85D9CD8744E2}']"
+              s:ds="{C953B854-12CF-43B0-8F77-AD3BA25A1B50}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158/teaser-placeholder-6_3d1e7899-8873-447a-8343-5ea9455089ce" />
+            <r
+              uid="{CE8A5116-E129-44C2-89FC-A1E3CD64D46F}"
+              p:after="r[@uid='{67F27556-6986-462E-AAC8-E6F8F411B06A}']"
+              s:ds="{02B3C20E-6DD3-4980-933F-61368011CBF0}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158/teaser-placeholder-5_3d1e7899-8873-447a-8343-5ea9455089ce" />
+            <r
+              uid="{F0C9116F-045B-4928-8172-154D4DF04716}"
+              p:after="r[@uid='{CE8A5116-E129-44C2-89FC-A1E3CD64D46F}']"
+              s:ds="{FF943B45-BF76-460F-A616-9E94C2920404}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158/teaser-placeholder-4_3d1e7899-8873-447a-8343-5ea9455089ce" />
+            <r
+              uid="{EDAD1010-3395-4AF0-8028-7E528A3F6DF9}"
+              p:after="r[@uid='{F0C9116F-045B-4928-8172-154D4DF04716}']"
+              s:ds="{B6B6A6BE-F095-40A5-B08A-B8FF057E046A}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158/teaser-placeholder-3_3d1e7899-8873-447a-8343-5ea9455089ce" />
+            <r
+              uid="{7D998990-96BC-4289-A149-52C241F91662}"
+              p:after="r[@uid='{EDAD1010-3395-4AF0-8028-7E528A3F6DF9}']"
+              s:ds="{1C8B7FE8-F7B1-4EF5-8591-970364393053}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158/teaser-placeholder-2_3d1e7899-8873-447a-8343-5ea9455089ce" />
+            <r
+              uid="{649FD046-4FB8-4993-B133-2914ADDDD7A3}"
+              p:after="r[@uid='{7D998990-96BC-4289-A149-52C241F91662}']"
+              s:ds="{5284FD98-CFFE-4057-A2DE-8D1BDF5AF490}"
+              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158/teaser-placeholder-1_3d1e7899-8873-447a-8343-5ea9455089ce" />
+            <r
+              uid="{6B476245-5916-40A7-8D84-AD359BF5874A}"
+              p:after="r[@uid='{649FD046-4FB8-4993-B133-2914ADDDD7A3}']"
+              s:ds="{9236F9FC-E7FD-4D93-AB2E-18EC9C3EC06B}"
+              s:id="{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158" />
+            <r
+              uid="{3D1E7899-8873-447A-8343-5EA9455089CE}"
+              p:after="r[@uid='{6B476245-5916-40A7-8D84-AD359BF5874A}']"
+              s:ds="{40D150F3-F2EF-4F21-8BE5-E6EE71BDCFF9}"
+              s:id="{5D35C31F-0770-4498-BAB8-C88BEF41F153}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_35b7633b-02cb-41e6-97f5-8d14755e7158" />
+            <r
+              uid="{35B7633B-02CB-41E6-97F5-8D14755E7158}"
+              p:after="r[@uid='{3D1E7899-8873-447A-8343-5EA9455089CE}']"
+              s:ds=""
+              s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}"
+              s:par="Background&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890" />
+            <r
+              uid="{F2268DD8-B93A-47F1-A47C-E1222F832EAE}"
+              p:after="r[@uid='{35B7633B-02CB-41E6-97F5-8D14755E7158}']"
+              s:ds="{06F0C32E-43EA-460F-BF48-5E30CC806D50}"
+              s:id="{8B28417B-A5B3-44F1-BFCC-FE1D907336E7}"
+              s:ph="/page-layout/page-header" />
+            <r
+              uid="{A3CA17FF-693C-46F1-87AA-B8C1833F1890}"
+              s:ds=""
+              s:par="Background&amp;ContainerIsFluid=1&amp;UseStaticPlaceholderNames" />
+            <r
+              uid="{C4A08D15-2FD5-4DC7-B288-084D56CDE1CA}"
+              p:after="r[@uid='{A3CA17FF-693C-46F1-87AA-B8C1833F1890}']"
+              s:ds=""
+              s:id="{D201A487-5099-48A1-8189-55944F70C6CB}"
+              s:par="Background=%7BEFA6AD59-AE21-4524-90F8-A92440B869AF%7D&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160822T075745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Excelling in Customer Experience

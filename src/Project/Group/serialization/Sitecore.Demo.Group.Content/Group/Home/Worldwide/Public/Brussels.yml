@@ -1,0 +1,36 @@
+﻿---
+ID: "8a9ac330-cac5-48ea-9ba7-c524fab9b3be"
+Parent: "6ec72312-cb6a-4dad-aa76-c5e136c64085"
+Template: "a83ddc62-13e0-496a-a834-2b9e16443ed4"
+Path: /sitecore/content/Group/Home/Worldwide/Public/Brussels
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        Jan Emiel Mommaetslaan 20A 
+        1831 Diegem (B) 
+        Brussels
+        Belgium
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Brussels
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T015346Z
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Brussels
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Brussels
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Habitat Public Europe
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: 50.8886432,4.44400470000005

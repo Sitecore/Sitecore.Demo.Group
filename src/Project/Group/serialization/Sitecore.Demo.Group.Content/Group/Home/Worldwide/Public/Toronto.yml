@@ -1,0 +1,35 @@
+﻿---
+ID: "b5605549-645b-4d28-88a6-edf60121f7e2"
+Parent: "6ec72312-cb6a-4dad-aa76-c5e136c64085"
+Template: "a83ddc62-13e0-496a-a834-2b9e16443ed4"
+Path: /sitecore/content/Group/Home/Worldwide/Public/Toronto
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        65 Queen Street W, Suite 615 
+        M5H 2M5 Toronto 
+        Canada
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Toronto
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T015718Z
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Toronto
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Toronto
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Habitat Public Canada
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "43.6515517,-79.38228070000002"

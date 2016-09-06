@@ -1,0 +1,31 @@
+﻿---
+ID: "b6b6a6be-f095-40a5-b08a-b8ff057e046a"
+Parent: "9efd1561-66dd-4b22-90d0-bd30d08fc2d9"
+Template: "d8e22e52-13a5-4077-acca-034e622e046e"
+Path: /sitecore/content/Group/Home/Operations/Health
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Health
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T014938Z
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: "<image mediaid=\"{5056E992-6725-48DA-AE74-D22783F3251E}\" />"
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: |
+        <p><span style="background-color: #ffffff;"><span style="color: #545454;">Serves the markets for health benefits and services worldwide, Habitat is a</span><span style="color: #545454; background-color: #ffffff;"> diversified health care company which focuses on the needs and experience of the individual.</span></span></p>
+        <p><span style="color: #545454; background-color: #ffffff;">The operations of Habitat spans across North America, South-East Asia and Europe - with its headquarter in Manchester, New Hampshire.</span></p>
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Health Care
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Health

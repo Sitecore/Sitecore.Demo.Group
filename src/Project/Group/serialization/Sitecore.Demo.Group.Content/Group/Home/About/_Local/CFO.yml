@@ -1,0 +1,26 @@
+﻿---
+ID: "7bffba92-e935-476a-b586-16cf2f59d3a4"
+Parent: "43b3e35f-87b9-419c-bca9-c8b40e8d1c04"
+Template: "40ad8a9b-c75c-428d-9e1a-51372b21f63e"
+Path: /sitecore/content/Group/Home/About/_Local/CFO
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0de53078-0da4-40cc-bbca-63aa96a0a1ef"
+      Hint: Quote
+      Value: Investments in Excellence always pays off
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160906T231059Z
+    - ID: "26cd59ab-3639-488f-bafd-58d2b217755a"
+      Hint: Name
+      Value: Ben Pollock
+    - ID: "bf83983a-473f-4a49-be8e-7d563aa5687e"
+      Hint: Cite Origin
+      Value: CFO of Habitat Group
+    - ID: "c9baf3eb-8cfa-4bf6-9b19-51d38db5fc38"
+      Hint: Picture
+      Value: "<image mediaid=\"{583DAE86-29FC-456D-8EEE-8D24EA5A186B}\" />"
