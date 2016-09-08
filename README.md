@@ -17,7 +17,7 @@ To set up the Habitat Group website locally:
 1. Install Sitecore and Webforms for Marketers in c:\websites on http://habitat.dev.local
 2. Install Habitat onto the Sitecore installation following the habitat installation guidelines
 3. Add the hostname group.dev.local to the binding on the IIS and in your local hosts file
-4. Fork the Habitat Group Website repository from GitHub into c:/projects/sitecore.demo.group
+4. Clone the Habitat Group Website repository from GitHub into c:/projects/sitecore.demo.group
 5. Open a command line
     1. Change the command line to c:/projects/sitecore.demo.group
     2. Run “npm install” to install gulp and the required node modules in the folder
