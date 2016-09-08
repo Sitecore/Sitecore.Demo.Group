@@ -15,7 +15,6 @@ SharedFields:
     {80AA88D3-B032-4C85-AFCB-46145F8AB706}
     {8E51248D-D460-423B-93AC-A26E1007EED4}
     {8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}
-    {4BE6922E-4386-410E-A86E-F342B9ABB286}
 - ID: "5585a30d-b115-4753-93ce-422c3455deb2"
   Hint: ShowInNavigation
   Type: Checkbox
@@ -121,4 +120,5 @@ Languages:
       Value: 20141119T041742Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: extranet\Anonymous
+      Value: |
+        extranet\Anonymous

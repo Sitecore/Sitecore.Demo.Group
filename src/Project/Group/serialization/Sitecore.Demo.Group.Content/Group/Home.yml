@@ -4,6 +4,11 @@ Parent: "1464b4d8-09d4-40ea-a80e-317803c9e18a"
 Template: "567c4bd6-6791-4490-a1a3-4d1fe0eeee68"
 Path: /sitecore/content/Group/Home
 DB: master
+SharedFields:
+- ID: "5585a30d-b115-4753-93ce-422c3455deb2"
+  Hint: ShowInNavigation
+  Type: Checkbox
+  Value: 0
 Languages:
 - Language: en
   Versions:
@@ -114,7 +119,8 @@ Languages:
       Value: 20160822T075745Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
       Hint: BrowserTitle
       Value: Excelling in Customer Experience
