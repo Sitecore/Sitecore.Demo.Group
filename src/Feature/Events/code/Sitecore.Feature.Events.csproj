@@ -111,7 +111,6 @@
     <Content Include="App_Config\Include\Feature\Sitecore.Feature.Events.Serialization.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="App_Config\Security\domains.config.transform" />
     <Content Include="Views\Events\EventContent.cshtml" />
     <Content Include="Views\Events\Venue.cshtml" />
     <Content Include="Views\Events\EventList.cshtml" />
