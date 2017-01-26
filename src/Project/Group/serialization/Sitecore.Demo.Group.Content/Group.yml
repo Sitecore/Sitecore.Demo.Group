@@ -6,6 +6,10 @@ Path: /sitecore/content/Group
 DB: master
 Languages:
 - Language: en
+  Fields:
+  - ID: "53b5af0a-265f-4e60-b2b2-4576ce0beccf"
+    Hint: Theme
+    Value: "{92E5AB55-4E9B-401B-A735-1CECBA4C009D}"
   Versions:
   - Version: 1
     Fields:
@@ -37,7 +41,8 @@ Languages:
         USA
     - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
       Hint: Logo
-      Value: "<image mediaid=\"{EBA28CA7-E4FE-44A7-895A-DEBA2ABA409E}\" />"
+      Value: |
+        <image mediaid="{EBA28CA7-E4FE-44A7-895A-DEBA2ABA409E}" />
     - ID: "efd4980a-030c-497c-8880-40b6030ac28b"
       Hint: OrganisationName
       Value: Habitat Group
