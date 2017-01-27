@@ -1,0 +1,29 @@
+﻿---
+ID: "06f0c32e-43ea-460f-bf48-5e30cc806d50"
+Parent: "49eba36f-d820-44c4-9775-8cbe5ace7103"
+Template: "c18d3794-d126-4548-bfc8-89358de6e9c1"
+Path: /sitecore/content/Group/Global/Media/Default Carousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160829T051318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170126T234200Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
