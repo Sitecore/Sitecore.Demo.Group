@@ -2,5 +2,9 @@
   {
     "outputFile": "styles/white-wonder.css",
     "inputFile": "styles/white-wonder.scss"
+  },
+  {
+    "outputFile": "styles/sweden.css",
+    "inputFile": "styles/sweden.scss"
   }
 ]

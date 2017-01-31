@@ -188,6 +188,10 @@ Languages:
       Value: |
         sitecore\Admin
 - Language: "sv-SE"
+  Fields:
+  - ID: "53b5af0a-265f-4e60-b2b2-4576ce0beccf"
+    Hint: Theme
+    Value: "{0FEFAF15-D05C-4488-8988-F364E93E24BD}"
   Versions:
   - Version: 1
     Fields:
