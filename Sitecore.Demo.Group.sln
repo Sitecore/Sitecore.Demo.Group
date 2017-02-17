@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{6F81D5A7-DD8E-40CF-A696-7E14B6309CD0}"
 EndProject
@@ -17,6 +17,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 		publishsettings.targets = publishsettings.targets
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{7112501C-1346-4876-BEA6-323730CA2B2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{500C6DF7-571C-4F90-9293-4BDA18230F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Events", "code\Sitecore.Feature.Events.csproj", "{6E12DB7E-95C1-487C-9959-33211624FD99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,10 @@ Global
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E12DB7E-95C1-487C-9959-33211624FD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E12DB7E-95C1-487C-9959-33211624FD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E12DB7E-95C1-487C-9959-33211624FD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E12DB7E-95C1-487C-9959-33211624FD99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9D180712-0180-4814-95C8-C9A0732EC28D} = {6F81D5A7-DD8E-40CF-A696-7E14B6309CD0}
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630} = {9D180712-0180-4814-95C8-C9A0732EC28D}
+		{500C6DF7-571C-4F90-9293-4BDA18230F91} = {7112501C-1346-4876-BEA6-323730CA2B2B}
+		{6E12DB7E-95C1-487C-9959-33211624FD99} = {500C6DF7-571C-4F90-9293-4BDA18230F91}
 	EndGlobalSection
 EndGlobal
