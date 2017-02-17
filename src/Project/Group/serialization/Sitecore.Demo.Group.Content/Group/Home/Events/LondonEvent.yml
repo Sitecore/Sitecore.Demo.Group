@@ -1,0 +1,29 @@
+﻿---
+ID: "58447ec5-47dd-486d-9a1e-1194b94f96be"
+Parent: "2ead6642-336d-458c-8793-42fb452ab8c6"
+Template: "403fafad-33a0-483c-b363-f434054042d9"
+Path: /sitecore/content/Group/Home/Events/LondonEvent
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e54c0f4-dabd-4170-9a15-6e961d5c9b51"
+      Hint: Title
+      Value: London Event
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170217T150207Z
+    - ID: "9fafe359-0256-4986-8d9e-80a785525b25"
+      Hint: Venue Address
+      Value: london
+    - ID: "b8a9919a-d1c7-4a19-99d0-5df6487ec0ce"
+      Hint: Description
+      Value: Event in Sitecore Office London
+    - ID: "be0311ae-d63a-44a4-a200-5a9414c9425c"
+      Hint: Venue
+      Value: London
+    - ID: "cbe19eb7-1945-4469-95a0-e3b0228bcffa"
+      Hint: Date
+      Value: 28/02/2017

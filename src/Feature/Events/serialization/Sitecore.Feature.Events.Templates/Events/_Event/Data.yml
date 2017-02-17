@@ -1,0 +1,14 @@
+﻿---
+ID: "7a6d69ca-f0dd-4360-b596-19b5c6af6581"
+Parent: "a3ab6626-250d-44be-aaed-58b6709b2974"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Events/_Event/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170217T144647Z

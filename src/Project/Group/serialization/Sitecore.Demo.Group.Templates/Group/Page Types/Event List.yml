@@ -1,33 +1,26 @@
 ﻿---
-ID: "567c4bd6-6791-4490-a1a3-4d1fe0eeee68"
+ID: "3cbc35b5-423d-4a9f-b73e-33bba9917b43"
 Parent: "fd69887e-4ba1-4418-ad48-928b882266cd"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/Group/Page Types/Home
+Path: /sitecore/templates/Project/Group/Page Types/Event List
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Network/32x32/home.png
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Type: TreelistEx
-  Value: |
-    {E269FBB5-3750-427A-9149-7AA950B49301}
-    {3CBC35B5-423D-4A9F-B73E-33BBA9917B43}
+  Value: /Applications/32x32/folder_time.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Type: tree list
   Value: |
-    {D88CCD80-D851-470D-AF11-701FF23504E7}
-    {F9F4FC05-98D0-4C62-860F-F08AE7F0EE25}
+    {AF74A00B-8CA7-4C9A-A5C1-156A68590EE2}
     {A1CBA309-D22B-46D5-80F8-2972C185363F}
+    {D88CCD80-D851-470D-AF11-701FF23504E7}
+    {91962B60-25F6-428F-8D10-02AA1E49D6A5}
     {BDD24F35-05E8-4466-8798-7D3DD6A6C991}
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 0
+    {8FD6C8B6-A9A4-4322-947E-90CE3D94916D}
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{E7CE9C4F-79B6-466F-B8EC-1609CA09858D}"
+  Value: "{5B9DABA9-AE95-49BE-9A55-694EA80368AF}"
 Languages:
 - Language: en
   Versions:
@@ -35,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20141119T151509
+      Value: 20150824T175244Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
