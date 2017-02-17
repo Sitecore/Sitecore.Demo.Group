@@ -70,6 +70,11 @@ SharedFields:
           ph="/page-layout/section/col-wide-1"
           uid="{34E5399D-A35E-4696-8D6E-049A7F99DE9C}" />
         <r
+          id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}"
+          par="ZoomLevel=15"
+          ph="/page-layout/section/col-narrow-1"
+          uid="{271AAC27-FCFD-4DFF-AC8B-8CC3FE432C5F}" />
+        <r
           id="{82F5B898-F696-4AEE-86BA-F096F5718DF7}"
           ph=" /page-layout/section/col-narrow-1"
           uid="{BC697E61-017C-4956-85E3-887B49310B1E}" />

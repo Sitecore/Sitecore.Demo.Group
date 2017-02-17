@@ -9,6 +9,12 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: Vester Farimagsgade 3, 1606 København V, Denmark
+    - ID: "0ee2f208-1fee-42fc-8051-6696d49a92bf"
+      Hint: OpenGraphTitle
+      Value: Copenhagen Event
     - ID: "1e54c0f4-dabd-4170-9a15-6e961d5c9b51"
       Hint: Title
       Value: Copenhagen Event
@@ -24,6 +30,15 @@ Languages:
     - ID: "be0311ae-d63a-44a4-a200-5a9414c9425c"
       Hint: Venue
       Value: Copenhagen
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Copenhagen Event
     - ID: "cbe19eb7-1945-4469-95a0-e3b0228bcffa"
       Hint: Date
       Value: 15/03/2017
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Copenhagen Event
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: 55.6749599,12.5616201

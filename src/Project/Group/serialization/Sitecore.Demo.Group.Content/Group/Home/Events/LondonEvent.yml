@@ -9,6 +9,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: International House, 1 St. Katherines Way, St Katharine's & Wapping, London E1W 1UN
     - ID: "0ee2f208-1fee-42fc-8051-6696d49a92bf"
       Hint: OpenGraphTitle
       Value: London Event
@@ -33,3 +36,9 @@ Languages:
     - ID: "cbe19eb7-1945-4469-95a0-e3b0228bcffa"
       Hint: Date
       Value: 28/02/2017
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: London Event
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "51.5073722,-0.0760782"
