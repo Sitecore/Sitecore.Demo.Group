@@ -114,6 +114,12 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0ee2f208-1fee-42fc-8051-6696d49a92bf"
+      Hint: OpenGraphTitle
+      Value: $name
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170217T145724Z
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: $name

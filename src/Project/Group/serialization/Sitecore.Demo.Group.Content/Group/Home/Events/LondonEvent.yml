@@ -9,6 +9,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0ee2f208-1fee-42fc-8051-6696d49a92bf"
+      Hint: OpenGraphTitle
+      Value: London Event
     - ID: "1e54c0f4-dabd-4170-9a15-6e961d5c9b51"
       Hint: Title
       Value: London Event
@@ -20,10 +23,13 @@ Languages:
       Value: london
     - ID: "b8a9919a-d1c7-4a19-99d0-5df6487ec0ce"
       Hint: Description
-      Value: Event in Sitecore Office London
+      Value: <p>Join us in Event in Sitecore Office London.</p>
     - ID: "be0311ae-d63a-44a4-a200-5a9414c9425c"
       Hint: Venue
       Value: London
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: London Event
     - ID: "cbe19eb7-1945-4469-95a0-e3b0228bcffa"
       Hint: Date
       Value: 28/02/2017

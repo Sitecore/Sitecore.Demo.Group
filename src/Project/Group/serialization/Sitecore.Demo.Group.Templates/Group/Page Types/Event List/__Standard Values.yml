@@ -80,7 +80,7 @@ SharedFields:
           uid="{66422117-69C1-4B62-9323-482F16C4F244}" />
         <r
           id="{73EBB003-FD1F-4E81-B74E-F129B6E28C95}"
-          ph=" /page-layout/section/col-huge"
+          ph="/page-layout/section/col-huge"
           uid="{5D0B55DB-5BC0-4F29-A7CD-3F0F41A301EB}" />
         <r
           id="{299FD8EA-2CFD-4A69-9CA4-7EA24CD34A46}"
@@ -123,6 +123,12 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0ee2f208-1fee-42fc-8051-6696d49a92bf"
+      Hint: OpenGraphTitle
+      Value: $name
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: $name
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20150824T175428Z
@@ -136,4 +142,7 @@ Languages:
         <image mediaid="{88032F9C-B464-44CB-B76D-513D60B9C127}" />
     - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
       Hint: Title
+      Value: $name
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
       Value: $name
