@@ -79,9 +79,9 @@ SharedFields:
           ph="/page-layout/section"
           uid="{66422117-69C1-4B62-9323-482F16C4F244}" />
         <r
-          id="{6D309FC1-D6B1-43B1-A31C-1FECB7B9303F}"
-          ph="col-huge"
-          uid="{3900ADC1-26E3-45C2-935C-1BC12D4E228A}" />
+          id="{73EBB003-FD1F-4E81-B74E-F129B6E28C95}"
+          ph=" /page-layout/section/col-huge"
+          uid="{5D0B55DB-5BC0-4F29-A7CD-3F0F41A301EB}" />
         <r
           id="{299FD8EA-2CFD-4A69-9CA4-7EA24CD34A46}"
           ph="footer"

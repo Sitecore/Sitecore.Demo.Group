@@ -11,6 +11,7 @@ namespace Sitecore.Feature.Events
     public struct Event
     {
       public static readonly ID ID = new ID("{A3AB6626-250D-44BE-AAED-58B6709B2974}");
+
       public struct Fields
       {
         public static readonly ID Title = new ID("{1E54C0F4-DABD-4170-9A15-6E961D5C9B51}");
@@ -21,3 +22,4 @@ namespace Sitecore.Feature.Events
       }
     }
   }
+}
