@@ -1,0 +1,18 @@
+﻿---
+ID: "96673f33-eedd-4fa9-a5c4-b22571fa3e69"
+Parent: "8d572a63-250c-4d97-b3b2-00cf1286cc72"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Group/Global/Dictionary/PageContent/Teaser
+DB: master
+Languages:
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170127T015511Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous

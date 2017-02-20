@@ -1,6 +1,6 @@
 ﻿---
-ID: "023d41e4-0c1f-4c49-86df-53e1bd5c6ebb"
-Parent: "a7640520-7fd0-459f-aee7-4680c79cc210"
+ID: "bd7de119-b5f6-4dde-8fb6-ad8e8e61f018"
+Parent: "b2572614-a030-4127-8861-becec5585c58"
 Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
 Path: /sitecore/content/Group/Global/Dictionary/Demo/Personal Info/Anonymous User
 DB: master
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170217T213027Z
+      Value: 20170127T020425Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

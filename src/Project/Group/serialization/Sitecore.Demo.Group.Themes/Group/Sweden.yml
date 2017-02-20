@@ -1,0 +1,22 @@
+﻿---
+ID: "76ea016a-8678-42e5-b3fe-f2231fa6dab9"
+Parent: "b310f64b-e3a4-4e23-b8fa-f66ae3e34927"
+Template: "1c87ea50-cc18-48cc-86de-592e274d0c4f"
+Path: /sitecore/system/Settings/Project/Themes/Group/Sweden
+DB: master
+SharedFields:
+- ID: "4867d192-326a-4aa4-81ef-ea430e224aff"
+  Hint: Css assets
+  Value: /styles/sweden.min.css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T124816Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

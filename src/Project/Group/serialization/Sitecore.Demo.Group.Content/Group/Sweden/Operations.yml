@@ -1,0 +1,61 @@
+﻿---
+ID: "6f6b4b58-51bf-4560-9125-f381d13e16d3"
+Parent: "e7b952fe-9f03-4b8b-971b-760d218e677f"
+Template: "8e51248d-d460-423b-93ac-a26e1007eed4"
+Path: /sitecore/content/Group/Sweden/Operations
+DB: master
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{9EFD1561-66DD-4B22-90D0-BD30D08FC2D9}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{9EFD1561-66DD-4B22-90D0-BD30D08FC2D9}?lang=en&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170127T001810Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Våra Verksamheter
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{9EFD1561-66DD-4B22-90D0-BD30D08FC2D9}?lang=sv-SE&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170127T002134Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: |
+        <image mediaid="{1C9D05D5-5503-499A-9782-444109A3AF42}" />
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: "<p>Habitat-Group investerar och drivar ett antal aff&auml;rsvertikaler i b&aring;de etablerade och kommande marknader. Vi str&auml;var efter att vara marknadsledande i allt vi g&ouml;r - och tror att alltid ge den b&auml;sta kundupplevelsen &auml;r v&auml;gen.</p>"
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Våra Verksamheter
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Våra Verksamheter

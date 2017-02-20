@@ -1,0 +1,65 @@
+﻿---
+ID: "01d93a52-dc2b-459a-aefd-04f42817fac6"
+Parent: "e7b952fe-9f03-4b8b-971b-760d218e677f"
+Template: "d8e22e52-13a5-4077-acca-034e622e046e"
+Path: /sitecore/content/Group/Sweden/About
+DB: master
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{2C3BB531-DE82-40B4-A185-2AAF15A648A6}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{2C3BB531-DE82-40B4-A185-2AAF15A648A6}?lang=en&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170127T001722Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Om Oss
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{2C3BB531-DE82-40B4-A185-2AAF15A648A6}?lang=sv-SE&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170127T001820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: <p>V&aring;r kompromissl&ouml;sa engagemang f&ouml;r globalt t&auml;nkande, innovation och samarbete i v&aring;rt s&auml;tt att bygga, s&auml;lja, leverera och optimera v&aring;ra produkter och tj&auml;nster. Denna tydliga, strategiska fokus &auml;r ett mantra f&ouml;r Habitats ledning, anst&auml;llda och partners lika, och det genomsyrar hela v&aring;rt ekosystem.</p>
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: "Om Habitat-gruppen"
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Om Oss
+    - ID: "d74f396d-5c5e-4916-bd0a-bfd58b6b1967"
+      Hint: Body
+      Value: |
+        <p>Genom Habitat f&ouml;retag, konsumenter och f&ouml;retag ges den b&auml;sta kundupplevelse och har befogenhet att fatta r&auml;tt beslut, p&aring; r&auml;tt plats och vid r&auml;tt tidpunkt. Konsumenterna kr&auml;ver f&ouml;retag som &auml;r mer personlig, som tar h&auml;nsyn till ramen f&ouml;r sina tidigare varum&auml;rke interaktioner. F&ouml;r f&ouml;retag, levererar personliga experienceses m&auml;tbara, relevanta erfarenheter som f&ouml;rb&auml;ttrar prestanda, bygger lojalitet och driver verkliga resultat &ouml;ver varje ingreppssp&aring;ret.<br />
+        <br />
+        Byggd fr&aring;n grunden sedan 2001, har Habitat Corporation den erfarenhet och kunskap som kr&auml;vs f&ouml;r att g&ouml;ra det m&ouml;jligt f&ouml;r v&aring;ra kunder att f&aring; r&auml;tt erfarenhet, i realtid, i alla kanaler. Aff&auml;rer i sammanhanget kr&auml;ver en kommersiell plattform som levererar tre komponenter: robust hantering, intelligens och automatisering. Habitat &auml;r marknadsledande i alla tre.<br />
+        <br />
+        Habitat kontinuerligt erk&auml;nd som en branschledare av framst&aring;ende organisationer, och tilldelades 2016 Best in Business Award av Harvest och Monk.</p>

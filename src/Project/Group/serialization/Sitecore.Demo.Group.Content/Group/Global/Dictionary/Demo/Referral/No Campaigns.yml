@@ -1,6 +1,6 @@
 ﻿---
-ID: "4aeaca5b-831d-4a03-9cc1-da10625693f2"
-Parent: "025d91a3-87d3-47c8-868e-e01b2983bcd2"
+ID: "8a7abbbe-d243-4e3a-bb93-c9441d64eda6"
+Parent: "f93b7288-dbe4-4a27-966d-a57a22bde4af"
 Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
 Path: /sitecore/content/Group/Global/Dictionary/Demo/Referral/No Campaigns
 DB: master
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170217T213029Z
+      Value: 20170127T020427Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
