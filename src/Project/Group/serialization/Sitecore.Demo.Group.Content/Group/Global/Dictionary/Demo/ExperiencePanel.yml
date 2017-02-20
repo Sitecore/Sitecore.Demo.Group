@@ -1,0 +1,18 @@
+﻿---
+ID: "5a1c46f9-87cb-4ec9-9d9b-310a8027da72"
+Parent: "43b7f050-ed4b-4d0b-9a3a-bed5ec780abd"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Group/Global/Dictionary/Demo/ExperiencePanel
+DB: master
+Languages:
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170217T213025Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous

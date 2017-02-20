@@ -1,0 +1,18 @@
+﻿---
+ID: "9dc5a52d-c860-4646-9f90-d3d6d9e24e89"
+Parent: "ad4d8cce-853b-42a5-96fe-7e346316ece5"
+Template: "48337615-1022-4b40-9e0c-efcbbe9f8617"
+Path: /sitecore/content/Group/Settings/EventsSettings/VenueSettings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161214T100441Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

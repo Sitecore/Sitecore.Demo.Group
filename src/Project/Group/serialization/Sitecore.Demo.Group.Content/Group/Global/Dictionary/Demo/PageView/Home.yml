@@ -1,0 +1,21 @@
+﻿---
+ID: "a7111ef6-d460-4daf-a6f6-d2e87179c990"
+Parent: "470e85b2-4f74-45d5-a8bd-b73a731186cf"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Group/Global/Dictionary/Demo/PageView/Home
+DB: master
+Languages:
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170217T213024Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: Home

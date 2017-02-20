@@ -1,0 +1,23 @@
+﻿---
+ID: "ad4d8cce-853b-42a5-96fe-7e346316ece5"
+Parent: "1758325e-c0b4-4949-a6f5-0d260ba12edd"
+Template: "ba1c6f21-dd63-4080-bf68-5fd441012c4e"
+Path: /sitecore/content/Group/Settings/EventsSettings
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{48337615-1022-4B40-9E0C-EFCBBE9F8617}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161214T100404Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
