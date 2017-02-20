@@ -10,6 +10,10 @@ SharedFields:
   Value: 50
 Languages:
 - Language: en
+  Fields:
+  - ID: "53b5af0a-265f-4e60-b2b2-4576ce0beccf"
+    Hint: Theme
+    Value: "{76EA016A-8678-42E5-B3FE-F2231FA6DAB9}"
   Versions:
   - Version: 1
     Fields:
@@ -188,7 +192,10 @@ Languages:
       Value: |
         sitecore\Admin
 - Language: "sv-SE"
-  Fields: 
+  Fields:
+  - ID: "53b5af0a-265f-4e60-b2b2-4576ce0beccf"
+    Hint: Theme
+    Value: "{76EA016A-8678-42E5-B3FE-F2231FA6DAB9}"
   Versions:
   - Version: 1
     Fields:
