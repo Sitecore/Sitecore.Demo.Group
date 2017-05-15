@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{6F81D5A7-DD8E-40CF-A696-7E14B6309CD0}"
 EndProject
@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 		gulpfile.js = gulpfile.js
 		package.json = package.json
 		publishsettings.targets = publishsettings.targets
+		src\Project\Group\code\App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config = src\Project\Group\code\App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config
 	EndProjectSection
 EndProject
 Global
