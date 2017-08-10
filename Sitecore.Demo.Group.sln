@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{6F81D5A7-DD8E-40CF-A696-7E14B6309CD0}"
 EndProject
@@ -11,10 +11,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Demo.Group", "src\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{0A2EC991-43AF-4CB5-88D6-37ADD014CC19}"
 	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		scripts\applytransform.targets = scripts\applytransform.targets
 		gulp-config.js = gulp-config.js
 		gulpfile.js = gulpfile.js
 		package.json = package.json
 		publishsettings.targets = publishsettings.targets
+		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
+		src\Project\Group\code\App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config = src\Project\Group\code\App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config
 	EndProjectSection
 EndProject
 Global
