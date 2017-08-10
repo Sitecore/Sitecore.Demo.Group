@@ -1,4 +1,4 @@
-module.exports = function() {
+module.exports = function () {
   var instanceRoot = "C:\\websites\\Habitat.dev.local";
   var config = {
     websiteRoot: instanceRoot + "\\Website",
@@ -6,6 +6,11 @@ module.exports = function() {
     licensePath: instanceRoot + "\\Data\\license.xml",
     solutionName: "Sitecore.Demo.Group",
     buildConfiguration: "Debug",
+    buildToolsVersion: 15.0,
+    buildMaxCpuCount: 0,
+    buildVerbosity: "minimal",
+    buildPlatform: "Any CPU",
+    publishPlatform: "AnyCpu",
     runCleanBuilds: false
   };
   return config;
