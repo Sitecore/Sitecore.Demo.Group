@@ -28,3 +28,17 @@ Languages:
     - ID: "ce6b8b5d-b529-4e26-b90b-a76e9c868912"
       Hint: Title
       Value: Legal Webinar
+    - ID: "ec9020be-8498-4dac-8689-9b2e492f126f"
+      Hint: Description
+      Value: |
+        <p>Chair: Jose MacQuade, Managing Partner, Habitat Legal, California, USA</p>
+        <p>Maximising the Value of Evidence: Distinguishing Between Good and Bad Evidence</p>
+        <p>Not all evidence is created equal. Master how to sort through documents, witnesses and statements, evaluate the evidence and pinpoint exactly what will be most effective.</p>
+        <p>Organisational strategies</p>
+        <ul>
+            <li>Marshalling evidence to develop a case theory</li>
+            <li>Using evidence to prove what you need to prove</li>
+            <li>Evaluating evidence and its potential use</li>
+            <li>Strategies for maximising your best evidence and getting value from less useful evidence</li>
+        </ul>
+        <p>Presented by Bryan James, Barrister, Habitat Legal</p>

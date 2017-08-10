@@ -28,3 +28,15 @@ Languages:
     - ID: "ce6b8b5d-b529-4e26-b90b-a76e9c868912"
       Hint: Title
       Value: SXSW
+    - ID: "ec9020be-8498-4dac-8689-9b2e492f126f"
+      Hint: Description
+      Value: |
+        <p>Habitat Technology&rsquo;s headed to Austin for the annual South by Southwest gathering in Austin, and this year the company is an official sponsor of the event, which combines tech, music and film into one entertaining and educational festival and conference.</p>
+        <p>Several events will be held at <span>Habitat Technology</span> Austin, to showcase the company&rsquo;s innovations in music, gaming, travel, photography and social media from Windows, Xbox, Surface, Apple iOS, Android and more.</p>
+        <p><span>Habitat Technology</span> is also hosting a special performance by DJ, music journalist and record producer Mullen, probably best known as the drummer and joint front man for The Greatest Band Ever. He will perform on his <span>Habitat Technology equipment</span> at <span>Habitat Technology, Austin,</span> on the Saturday.</p>
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Austin Convention Centre
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "30.2635686,-97.73960590000002"
