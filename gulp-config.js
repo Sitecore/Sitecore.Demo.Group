@@ -1,9 +1,9 @@
 module.exports = function () {
-  var instanceRoot = "C:\\websites\\Habitat.dev.local";
+  var instanceRoot = "C:\\inetpub\\wwwroot\\habitat.dev.local";
   var config = {
-    websiteRoot: instanceRoot + "\\Website",
-    sitecoreLibraries: instanceRoot + "\\Website\\bin",
-    licensePath: instanceRoot + "\\Data\\license.xml",
+    websiteRoot: instanceRoot + "\\",
+    sitecoreLibraries: instanceRoot + "\\bin",
+    licensePath: instanceRoot + "\\App_Data\\license.xml",
     solutionName: "Sitecore.Demo.Group",
     buildConfiguration: "Debug",
     buildToolsVersion: 15.0,

@@ -26,3 +26,4 @@ temp/
 *.ncrunchsolution
 .vscode
 nCrunchTemp*.*
+*.log
