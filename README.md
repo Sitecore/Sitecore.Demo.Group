@@ -16,10 +16,10 @@ To set up the Habitat Group website locally:
 
 1. [Install Habitat](https://github.com/Sitecore/Habitat/wiki/01-Getting-Started) following the guidance in that solution
 2. Add the hostname group.dev.local to the Habitat site's bindings in IIS, and in your local hosts file
-3. Clone the Habitat Group Website repository from GitHub into c:/projects/sitecore.demo.group
+3. Clone the Habitat Group Website repository from GitHub into c:/projects/sitecore.demo.group (for example, run **`git clone https://github.com/Sitecore/Sitecore.Demo.Group.git`** from the C:/projects folder)
 4. Open a command line **as admin:**
     1. Navigate to the root of the sitecore.demo.group solution (default c:/projects/sitecore.demo.group)
     2. Run **`npm install`** to install gulp and the required node modules in the folder
     3. Run **`gulp`** to build, publish and sync the Habitat Group website onto the Sitecore installation
 5. Visit http://group.dev.local in your browser to view the Habitat group website
-6. A rebuild of the Sitecore master search index might be needed. Please refer to the [Sitecore documentation](https://doc.sitecore.net/sitecore_experience_platform/setting_up__maintaining/search_and_indexing/indexing/rebuild_search_indexes).
+6. A rebuild of the Sitecore master search index might be needed. Please refer to the [Sitecore documentation](https://doc.sitecore.com/developers/91/platform-administration-and-architecture/en/rebuild-search-indexes.html).
