@@ -2,7 +2,7 @@
 Habitat Group Demo site - A Developer Example of a Habitat Based Demo
 
 To install, set up a website running:
-* [Habitat 1.7](https://github.com/sitecore/habitat) (For more information about the Habitat project, please check out the [Habitat Wiki](https://github.com/sitecore/habitat/wiki))
+* [Habitat 1.7](https://github.com/sitecore/habitat) (For more information about the Habitat project, please check out the [Habitat Wiki](https://github.com/sitecore/habitat/wiki)). Ensure you are using the same [tools and resources](https://github.com/Sitecore/Habitat/blob/master/docs/02-Resources.md) as are required by Habitat.
 
 The code and scenarios in this repository is maintained by Sitecore, but is provided "as is" and is unsupported. Please do not submit support tickets regarding Habitat or this repository.
 
