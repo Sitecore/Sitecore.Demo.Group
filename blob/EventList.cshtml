@@ -7,7 +7,7 @@
 @model Sitecore.Mvc.Presentation.RenderingModel
 
 <ul class="media-list media-list-divided">
-  @foreach (var item in Model.Item.Children.Where(i => i.DecendsFrom(Templates.Event.ID)).OrderByDescending(i => i[Templates.Event.Fields.Date]))
+  @foreach (var item in Model.Item.Children.Where(i => i.DescendsFrom(Templates.Event.ID)).OrderByDescending(i => i[Templates.Event.Fields.Date]))
   {
     <li class="media">
       <div class="media-body">
