@@ -1,0 +1,28 @@
+@using Sitecore.Feature.Events
+@using Sitecore.Foundation.Alerts
+@using Sitecore.Foundation.Alerts.Extensions
+@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Mvc
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<ul class="media-list media-list-divided">
+  @foreach (var item in Model.Item.Children.Where(i => i.DescendsFrom(Templates.Event.ID)).OrderByDescending(i => i[Templates.Event.Fields.Date]))
+  {
+    <li class="media">
+      <div class="media-body">
+        <div class="label label-info">
+          @Html.Sitecore().Field(Templates.Event.Fields.Date.ToString(), item, new { format = "MMMM dd, yyyy" })
+        </div>
+        <h3 class="media-title">
+          <a href="@item.Url()">
+            @Html.Sitecore().Field(Templates.Event.Fields.Title, item)
+          </a>
+        </h3>
+        <p>
+          @Html.Sitecore().Field(Templates.Event.Fields.Venue, item)
+        </p>
+      </div>
+    </li>
+  }
+</ul>

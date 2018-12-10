@@ -1,0 +1,25 @@
+@using Sitecore.Feature.Events
+@using Sitecore.Foundation.Alerts
+@using Sitecore.Foundation.Alerts.Extensions
+@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Mvc
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.Event.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.Event.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+  return;
+}
+
+<div class="well">
+  <h4>@Html.Sitecore().Dictionary("/Events/Venue/Title", "Venue")</h4>
+
+  <address>
+    <p>
+      <strong>@Html.Sitecore().Field(Templates.Event.Fields.Venue, Model.Item)</strong>
+      <br/>
+      @Html.Sitecore().Field(Templates.Event.Fields.VenueAddress, Model.Item, new {linebreaks = "<br/>"})
+    </p>
+  </address>
+</div>
